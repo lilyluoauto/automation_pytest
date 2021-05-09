@@ -26,7 +26,7 @@ class Yoyo():
     def yoyo_1(self):
         print("函数名称：%s" % get__function_name())
         print("name : %s" % sys._getframe().f_code.co_name)
-        print("llll")
+
 if __name__ == "__main__":
     yoyo()
     Yoyo().yoyoketang()
