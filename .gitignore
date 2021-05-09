@@ -21,3 +21,17 @@ build
 data/
 report*
 *.css
+Common/
+Config/
+autouse.py
+autouse_2.py
+autouse_3.py
+ide-eval-resetter-2.1.14.jar
+install_flash_player_osx_ppapi.dmg
+pytest_c_testrunner-master.zip
+pytest_c_testrunner-master/
+pytest_learning.py
+test/
+test_module.py
+util/ee.py
+
